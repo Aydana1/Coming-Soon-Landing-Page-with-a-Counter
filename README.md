@@ -1,1 +1,1 @@
-# Coming-Soon-Landing-Page-with-a-Counter
+# Responsive-Landing-Page-with-a-Counter
